@@ -1,0 +1,35 @@
+ <!DOCTYPE html>
+ <html>
+    <body>
+        
+        
+        <p id='show_me'>I am the text</p>
+
+        <button type="button" onclick="document.getElementById('show_me').style.fontSize='80px'">
+            increase
+        </button>
+        <button type="button" onclick="document.getElementById('show_me').style.fontSize='30px'">
+            decrease
+        </button>
+        
+        <h2 id='demo'>Javascript can change html values</h2>
+        <button type="button" onclick="document.getElementById('demo').innerHTML='The content has changed'">
+        Clicktochange 
+        </button>
+        <div>
+            <img id="sky1" src="sky1.jpg" alt="sky photo" width="200" height="250">
+        </div>
+        
+        <div>
+            <button type="button" onclick="document.getElementById('sky1').src='sky2.jpg'">click Me!</button>
+        
+            <button type="button" onclick="document.getElementById('sky1').src='sky3.jpg'">click Me!</button>
+        </div>
+
+        
+        
+        
+
+        
+    </body>
+ </html>
