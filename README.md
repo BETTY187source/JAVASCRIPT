@@ -1,3 +1,3 @@
 # JAVASCRIPT
 Class tasks repository
-T
+This repository
