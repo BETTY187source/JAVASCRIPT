@@ -1,3 +1,3 @@
 # JAVASCRIPT
 ## Class tasks repository
-This repository is for storing regular class taskS concerning javascript dom.
+This repository is for storing regular class tasks concerning javascript dom.
